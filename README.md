@@ -16,10 +16,10 @@ Float number = sc.nextFloat();  //nextFloat take the decimal value
 ## Double
 Double number = sc.nextDouble();  //nextDouble take the long decimal value
 
-##String
+## String
 String name = sc.next(); //next only take the one word
 
-##String
+## String
 String name = sc.nextLine(); //nextLine will able to take the whole sentence
 
 ## Char
